@@ -1,0 +1,14 @@
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\bin\Debug\net8.0\Ub.exe
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\bin\Debug\net8.0\Ub.deps.json
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\bin\Debug\net8.0\Ub.runtimeconfig.json
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\bin\Debug\net8.0\Ub.dll
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\bin\Debug\net8.0\Ub.pdb
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.AssemblyInfoInputs.cache
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.AssemblyInfo.cs
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.csproj.CoreCompileInputs.cache
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.dll
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\refint\Ub.dll
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.pdb
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\Ub.genruntimeconfig.cache
+C:\sistemas\Ubs linux\UbsITRiskLinux\Ub\obj\Debug\net8.0\ref\Ub.dll
